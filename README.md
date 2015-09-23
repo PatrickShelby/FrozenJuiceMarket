@@ -1,0 +1,1 @@
+**This is an options trading app designed to make it easier to price options and to calculate profit promising and risk abetting positions on existing stock markets
